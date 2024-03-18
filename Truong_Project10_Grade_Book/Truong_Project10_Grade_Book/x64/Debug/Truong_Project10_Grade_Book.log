@@ -1,0 +1,3 @@
+﻿  Truong_Project10_Grade_Book.cpp
+C:\Users\truon\source\repos\Truong_Project10_Grade_Book\Truong_Project10_Grade_Book\Truong_Project10_Grade_Book.cpp(81,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Truong_Project10_Grade_Book.vcxproj -> C:\Users\truon\source\repos\Truong_Project10_Grade_Book\x64\Debug\Truong_Project10_Grade_Book.exe

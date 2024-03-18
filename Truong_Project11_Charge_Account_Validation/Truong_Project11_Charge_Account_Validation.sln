@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Truong_Project11_Charge_Account_Validation", "Truong_Project11_Charge_Account_Validation\Truong_Project11_Charge_Account_Validation.vcxproj", "{04E6865E-EB50-4C6C-9D3E-855C8D1EE549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E6865E-EB50-4C6C-9D3E-855C8D1EE549}.Debug|x64.ActiveCfg = Debug|x64
+		{04E6865E-EB50-4C6C-9D3E-855C8D1EE549}.Debug|x64.Build.0 = Debug|x64
+		{04E6865E-EB50-4C6C-9D3E-855C8D1EE549}.Debug|x86.ActiveCfg = Debug|Win32
+		{04E6865E-EB50-4C6C-9D3E-855C8D1EE549}.Debug|x86.Build.0 = Debug|Win32
+		{04E6865E-EB50-4C6C-9D3E-855C8D1EE549}.Release|x64.ActiveCfg = Release|x64
+		{04E6865E-EB50-4C6C-9D3E-855C8D1EE549}.Release|x64.Build.0 = Release|x64
+		{04E6865E-EB50-4C6C-9D3E-855C8D1EE549}.Release|x86.ActiveCfg = Release|Win32
+		{04E6865E-EB50-4C6C-9D3E-855C8D1EE549}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC7AFCCE-6C80-4BE1-BDBA-31B05952A745}
+	EndGlobalSection
+EndGlobal
